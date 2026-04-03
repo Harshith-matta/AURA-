@@ -201,16 +201,6 @@ Unlike traditional systems:
 
 ---
 
-## 👥 Team
-
-**Team Name:** Debug Nexus
-
-Members:
-
-* Member 1
-* Member 2
-* Member 3
-* Member 4
 
 ---
 
